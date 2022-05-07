@@ -1,4 +1,14 @@
-# This Python file uses the following encoding: utf-8
+#!/usr/bin/env python3
+
+__author__ = 'Nadeem Douba'
+__copyright__ = 'Copyright 2022, Nadeem Douba'
+__email__ = 'ndouba@gmail.com'
+__credits__ = []
+__license__ = 'GPL'
+__status__ = 'Development'
+__maintainer__ = 'Nadeem Douba'
+__version__ = '0.1'
+
 import os
 import re
 import math
